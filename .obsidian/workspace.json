@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1-1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "55a8a95cf4e0b18c",
@@ -184,7 +186,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "18d87f8e6a2506c3",
+  "active": "db88d6c5bbd10b7a",
   "lastOpenFiles": [
     "随堂测试1-第1-2章.md",
     "DS01-算法评价.md",
